@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="im/" kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="src" path="src/main/java/im"/>
+	<classpathentry kind="lib" path="target/mta-0.0.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="target/mta-0.0.1-shaded.jar"/>
+	<classpathentry kind="lib" path="target/mta-0.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="target/mta-0.0.1.jar"/>
+	<classpathentry kind="lib" path="target/original-uber-mta-0.0.1.jar"/>
+	<classpathentry kind="lib" path="target/uber-mta-0.0.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
